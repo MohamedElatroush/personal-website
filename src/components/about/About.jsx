@@ -12,7 +12,7 @@ const About = () => {
             <div className="container about__container">
                 <div className="about__me">
                     <div className="about__me-image">
-                        <img src={ME} alt=""></img>
+                        <img src={process.env.PUBLIC_URL + ME} alt=""></img>
                     </div>
 
                 </div>
@@ -40,7 +40,7 @@ const About = () => {
                     <a href="#contact" className="btn btn-primary">Let's Talk</a>
                 </div>
             </div>
-        </section>
+        </section >
     )
 }
 
