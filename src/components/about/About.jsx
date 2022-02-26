@@ -1,9 +1,11 @@
 import React from 'react'
 import './about.css'
-import ME from '../../assets/me.jpeg'
+// import ME from '../../assets/me.jpeg'
 import { RiAwardFill } from 'react-icons/ri'
 import { AiOutlineFundProjectionScreen } from 'react-icons/ai'
 import { FaUniversity } from 'react-icons/fa'
+
+var ME = require('../../assets/me.jpeg');
 const About = () => {
     return (
         <section id='about'>
@@ -12,8 +14,8 @@ const About = () => {
             <div className="container about__container">
                 <div className="about__me">
                     <div className="about__me-image">
-                        <img src="%PUBLIC_URL%/images/me.jpeg" alt=""></img>
-                        <img src={process.env.PUBLIC_URL + "images/me.jpeg"} alt=""></img>
+                        <img src={ME} alt=""></img>
+
                     </div>
 
                 </div>
