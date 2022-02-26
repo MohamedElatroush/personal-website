@@ -10,7 +10,8 @@ const Portfolio = () => {
             <div className='container portfolio__container'>
                 <article className='portfolio__item'>
                     <div className='portfolio__item-image'>
-                        <img src={IMG1} alt=""></img>
+
+                        <img src="https://drive.google.com/uc?export=view&id=1nFBytqmPD1u9XHe3oWf1SV5_TtDktK2v" alt=""></img>
                     </div>
                     <h3>This is a portfolio item title</h3>
                     <div className="portfolio__item-cta">
@@ -21,7 +22,7 @@ const Portfolio = () => {
 
                 <article className='portfolio__item'>
                     <div className='portfolio__item-image'>
-                        <img src={IMG1} alt=""></img>
+                        <img src="https://drive.google.com/uc?export=view&id=1nFBytqmPD1u9XHe3oWf1SV5_TtDktK2v" alt=""></img>
                     </div>
                     <h3>This is a portfolio item title</h3>
                     <div className="portfolio__item-cta">
@@ -31,7 +32,7 @@ const Portfolio = () => {
                 </article>
                 <article className='portfolio__item'>
                     <div className='portfolio__item-image'>
-                        <img src={IMG1} alt=""></img>
+                        <img src="https://drive.google.com/uc?export=view&id=1nFBytqmPD1u9XHe3oWf1SV5_TtDktK2v" alt=""></img>
                     </div>
                     <h3>This is a portfolio item title</h3>
                     <div className="portfolio__item-cta">
@@ -41,7 +42,7 @@ const Portfolio = () => {
                 </article>
                 <article className='portfolio__item'>
                     <div className='portfolio__item-image'>
-                        <img src={IMG1} alt=""></img>
+                        <img src="https://drive.google.com/uc?export=view&id=1nFBytqmPD1u9XHe3oWf1SV5_TtDktK2v" alt=""></img>
                     </div>
                     <h3>This is a portfolio item title</h3>
                     <div className="portfolio__item-cta">
@@ -51,7 +52,7 @@ const Portfolio = () => {
                 </article>
                 <article className='portfolio__item'>
                     <div className='portfolio__item-image'>
-                        <img src={IMG1} alt=""></img>
+                        <img src="https://drive.google.com/uc?export=view&id=1nFBytqmPD1u9XHe3oWf1SV5_TtDktK2v" alt=""></img>
                     </div>
                     <h3>This is a portfolio item title</h3>
                     <div className="portfolio__item-cta">
